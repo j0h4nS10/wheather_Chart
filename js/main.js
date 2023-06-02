@@ -17,7 +17,7 @@ new Chart(ctx, {
     data: {
       labels: time,
       datasets: [{
-        label: 'temperatura Colombia',
+        label: 'temperatura Colombia por hora',
         data: data,
         borderWidth: 1
       }]
